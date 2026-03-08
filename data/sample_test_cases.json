@@ -1,0 +1,10 @@
+[
+    {
+        "id": "TC_001",
+        "category": "riddle",
+        "prompt": "Which side of a peacock has most feathers?",
+        "expected_answer": "The outside",
+        "evaluation_type": "exact_match",
+        "keywords": ["outside"]
+    }
+]
